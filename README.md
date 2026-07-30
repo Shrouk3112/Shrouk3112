@@ -16,9 +16,9 @@ Turning raw data into meaningful insights through analytics & visualization.
 
 ```json
 {
-   "name":"Mee",
+   "name":"Shrouk",
    "role":"Aspiring Data Analyst",
-   "location":"Egypt 🇪🇬",
+   "location":"Egypt",
    "focus":[
       "Business Intelligence",
       "Data Analysis",
