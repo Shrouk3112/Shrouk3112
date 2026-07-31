@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hello 👋 I'm <span style="color:#A855F7;">Shoroq</span>
+<div align="center">
 
-### *Data Analyst | Turning Data into Insights*
+# Hello!  I'm Shrouk
+
+### Data Analyst 
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯   ✦ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 <br>
 
