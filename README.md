@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hi there! 👋 I'm <span style="color:#A855F7;">Shoroq</span>
+# Hello 👋 I'm <span style="color:#A855F7;">Shoroq</span>
 
 ### *Data Analyst | Turning Data into Insights*
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;SQL+%7C+Excel+%7C+Power+BI;Business+Intelligence+%26+Data+Analytics;Always+Learning+New+Things+🚀"/>
 
 </div>
 
@@ -46,8 +44,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Power%20Query-4CAF50?style=for-the-badge"/>
 
