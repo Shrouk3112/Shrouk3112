@@ -1,7 +1,19 @@
 <div align="center">
 
-# 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭
+# Hi there! 👋 I'm Shrouk
 
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ✦ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+### Data Analyst | Turning Data into Insights
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ✦ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 </div>
+
+### 👩‍💻 About Me
+```json
+{
+  "role": "Data Analyst",
+  "location": "Cairo, Egypt",
+  "tools": ["Excel", "SQL", "Power BI"],
+  "focus": "Business Intelligence & Data Visualization",
+  "available": "Open to full-time opportunities & freelance projects"
+}
