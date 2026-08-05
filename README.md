@@ -32,24 +32,6 @@
 }
 ```
 
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20Query-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 
 </p>
 
