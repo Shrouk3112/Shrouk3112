@@ -22,14 +22,13 @@
    "location": "Cairo, Egypt",
    "tools": [
       "Excel",
-      "SQL",
+      " Advanced SQL",
       "Power BI",
       "Power Query",
       "DAX"
+      "Data Modeling"
    ],
-   "focus": "Business Intelligence & Data Visualization",
-   "learning": "Python, Advanced SQL, Data Modeling",
-   "available": "Open to Data Analyst Opportunities"
+   "focus": "Business Intelligence & Data Visualization"
 }
 ```
 
