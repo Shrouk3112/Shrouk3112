@@ -41,6 +41,7 @@
 
 | Project | Tools | Description | Highlights |
 |---------|------|-------------|------------|
+| 🛍️ **Olist E-commerce Data Analysis** | SQL • DAX • Power BI | Analysis of Olist Brazilian e-commerce orders, customers, and sales performance. | 📊 E-commerce Insights |
 | 🛒 **SuperStore Orders Analysis** | Power BI • SQL • Excel | Sales analysis across products, regions and customers. | 📈 Sales Performance |
 | 💰 **Loan Financial Risk Analysis** | SQL • Excel • Power BI | Loan approval and financial risk analysis. | 🛡 Risk Analysis |
 | 👥 **HR Analytics Dashboard** | Power BI • SQL • Excel | Employee performance and HR KPIs dashboard. | 👨‍💼 HR Insights |
