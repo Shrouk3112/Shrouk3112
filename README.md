@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hello!  I'm Shrouk
+# Hello!  I'm Shoroq
 
 ### Data Analyst 
 
