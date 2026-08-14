@@ -1,51 +1,41 @@
-<div align="center">
+# Hi, I'm Shoroq Mohamed 👋
 
-<div align="center">
+### Data Analyst | Turning Data into Clear Business Decisions
 
-# Hello!  I'm Shoroq
-
-### Data Analyst 
-
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯   ✦ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-
-<br>
-
-</div>
+📍 Cairo, Egypt  
+🔗 [LinkedIn](https://www.linkedin.com/in/shoroq-mohamed) | 📧 Shurouqm2@gmail.com
 
 ---
 
-# 🙋‍♀️ About Me
-
-```json
-{
-   "role": "Data Analyst",
-   "location": "Cairo, Egypt",
-   "tools": [
-      "Excel",
-      " Advanced SQL",
-      "Power BI",
-      "Power Query",
-      "DAX"
-      "Data Modeling"
-   ],
-   "focus": "Business Intelligence & Data Visualization"
-}
-```
-
-
-</p>
+### About Me
+Data Analyst with hands-on experience delivering end-to-end analytics projects — from data cleaning and modeling to SQL analysis and interactive Power BI dashboards.  
+I focus on extracting actionable insights that support real business decisions, not just building visualizations.
 
 ---
 
-# 📂 Featured Projects
-
-| Project | Tools | Description | Highlights |
-|---------|------|-------------|------------|
-| 🛍️ **Olist E-commerce Data Analysis** | SQL • DAX • Power BI | Analysis of Olist Brazilian e-commerce orders, customers, and sales performance. | 📊 E-commerce Insights |
-| 🛒 **SuperStore Orders Analysis** | Power BI • SQL • Excel | Sales analysis across products, regions and customers. | 📈 Sales Performance |
-| 💰 **Loan Financial Risk Analysis** | SQL • Excel • Power BI | Loan approval and financial risk analysis. | 🛡 Risk Analysis |
-| 👥 **HR Analytics Dashboard** | Power BI • SQL • Excel | Employee performance and HR KPIs dashboard. | 👨‍💼 HR Insights |
-| 📊 **Grid Sales Analytics** | SQL • Power BI | Sales trends and KPI dashboard. | 📉 Trend Analysis |
-| 🏬 **Supermarket Sales Analysis** | SQL • Excel • Power BI | Customer behavior, sales and profit dashboard. | 💹 Business Insights |
+### Tech Stack
+- **SQL Server** (Advanced querying, CTEs, Window Functions, Data Modeling)
+- **Power BI** (DAX, Power Query, Star Schema, Dashboard Design)
+- **Excel** (Advanced Formulas, Pivot Tables, Power Query)
+- **Python** (Pandas – Intermediate)
+- Data Cleaning | Exploratory Analysis | Business Storytelling
 
 ---
+
+### Featured Projects
+
+| Project | Tools | Key Business Insight |
+|---------|-------|----------------------|
+| [**Olist Brazilian E-commerce**](https://github.com/Shrouk3112/olist-ecommerce-data-analysis) | SQL Server • Power BI • DAX | Delivery performance is the strongest driver of customer satisfaction (5-star orders arrive \~13 days early vs 4 days for 1-star) |
+| [**SuperStore Sales Analysis**](https://github.com/Shrouk3112/SuperStoreOrders) | SQL • Power BI • Excel | Discounts above 20% consistently turn profit into net loss |
+| [**HR Attrition Analysis**](https://github.com/Shrouk3112/HR_Analytics) | SQL • Power BI | Employees working overtime leave at 3× the rate of others |
+| [**Loan & Financial Risk**](https://github.com/Shrouk3112/Loan-financial-risk) | SQL • Power BI | Approval rate jumps to 44% for PhD holders vs only 14% for high-school graduates |
+
+---
+
+### Currently
+Open to **Junior Data Analyst** and **BI Analyst** opportunities in Egypt or remote.
+
+---
+
+⭐ From [Shrouk3112](https://github.com/Shrouk3112)
