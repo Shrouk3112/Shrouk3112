@@ -34,7 +34,7 @@ I focus on extracting actionable insights that support real business decisions, 
 ---
 
 ### Currently
-Open to **Junior Data Analyst** and **BI Analyst** opportunities in Egypt or remote.
+Open to **Junior Data Analyst** and **BI Analyst** opportunities in Egypt.
 
 ---
 
