@@ -2,8 +2,7 @@
 
 ### Data Analyst | Turning Data into Clear Business Decisions
 
-📍 Cairo, Egypt  
-🔗 [LinkedIn](https://www.linkedin.com/in/shoroq-mohamed) | 📧 [Shurouqm2@gmail.com](mailto:Shurouqm2@gmail.com)
+📍 Cairo, Egypt
 
 ---
 
@@ -39,3 +38,10 @@ I focus on extracting actionable insights that support real business decisions, 
 ![Currently](https://img.shields.io/badge/Currently-A855F7?style=for-the-badge)
 
 Open to **Junior Data Analyst** and **BI Analyst** opportunities in Egypt.
+
+---
+
+![Connect With Me](https://img.shields.io/badge/Connect_With_Me-A855F7?style=for-the-badge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoroq-mohamed)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shurouqm2@gmail.com)
