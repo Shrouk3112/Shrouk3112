@@ -7,7 +7,7 @@
 
 ---
 
-### <span style="color:#A855F7">👩‍💻 About Me</span>
+![About Me](https://img.shields.io/badge/About_Me-A855F7?style=for-the-badge)
 
 Data Analyst with hands-on experience delivering end-to-end analytics projects — from data cleaning and modeling to SQL analysis and interactive Power BI dashboards.
 
@@ -15,7 +15,7 @@ I focus on extracting actionable insights that support real business decisions, 
 
 ---
 
-### <span style="color:#A855F7">🛠️ Tech Stack</span>
+![Tech Stack](https://img.shields.io/badge/Tech_Stack-A855F7?style=for-the-badge)
 
 * **SQL Server** (Advanced querying, CTEs, Window Functions, Data Modeling)
 * **Power BI** (DAX, Power Query, Star Schema, Dashboard Design)
@@ -25,7 +25,7 @@ I focus on extracting actionable insights that support real business decisions, 
 
 ---
 
-### <span style="color:#A855F7">📂 Featured Projects</span>
+![Featured Projects](https://img.shields.io/badge/Featured_Projects-A855F7?style=for-the-badge)
 
 | Project | Tools | Key Business Insight |
 | :--- | :--- | :--- |
@@ -36,6 +36,6 @@ I focus on extracting actionable insights that support real business decisions, 
 
 ---
 
-### <span style="color:#A855F7">🚀 Currently</span>
+![Currently](https://img.shields.io/badge/Currently-A855F7?style=for-the-badge)
 
 Open to **Junior Data Analyst** and **BI Analyst** opportunities in Egypt.
