@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm **Shoroq Mohamed**
 
-### <span style="color:#A855F7">Data Analyst | Turning Data into Clear Business Decisions</span>
+### Data Analyst | Turning Data into Clear Business Decisions
 
 📍 Cairo, Egypt  
 🔗 [LinkedIn](https://www.linkedin.com/in/shoroq-mohamed) | 📧 [Shurouqm2@gmail.com](mailto:Shurouqm2@gmail.com)
 
 ---
 
-### 👩‍💻 About Me
+### <span style="color:#A855F7">👩‍💻 About Me</span>
 
 Data Analyst with hands-on experience delivering end-to-end analytics projects — from data cleaning and modeling to SQL analysis and interactive Power BI dashboards.
 
@@ -15,20 +15,17 @@ I focus on extracting actionable insights that support real business decisions, 
 
 ---
 
-### 🛠️ Tech Stack
+### <span style="color:#A855F7">🛠️ Tech Stack</span>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-A855F7?style=for-the-badge&logo=powerbi&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-A855F7?style=for-the-badge&logo=powerbi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* **SQL Server** (Advanced querying, CTEs, Window Functions, Data Modeling)
+* **Power BI** (DAX, Power Query, Star Schema, Dashboard Design)
+* **Excel** (Advanced Formulas, Pivot Tables, Power Query)
+* **Python** (Pandas – Intermediate)
+* Data Cleaning | Exploratory Analysis | Business Storytelling
 
 ---
 
-### 📂 Featured Projects
+### <span style="color:#A855F7">📂 Featured Projects</span>
 
 | Project | Tools | Key Business Insight |
 | :--- | :--- | :--- |
@@ -39,6 +36,6 @@ I focus on extracting actionable insights that support real business decisions, 
 
 ---
 
-### 🚀 Currently
+### <span style="color:#A855F7">🚀 Currently</span>
 
 Open to **Junior Data Analyst** and **BI Analyst** opportunities in Egypt.
