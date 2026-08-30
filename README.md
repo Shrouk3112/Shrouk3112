@@ -25,12 +25,11 @@ I focus on extracting actionable insights that support real business decisions, 
 ### Featured Projects
 
 | Project | Tools | Key Business Insight |
-|---------|-------|----------------------|
-| [**Olist Brazilian E-commerce**](https://github.com/Shrouk3112/olist-ecommerce-data-analysis) | SQL Server • Power BI • DAX | Delivery performance is the strongest driver of customer satisfaction (5-star orders arrive \~13 days early vs 4 days for 1-star) |
-| [**SuperStore Sales Analysis**](https://github.com/Shrouk3112/SuperStoreOrders) | SQL • Power BI • Excel | Discounts above 20% consistently turn profit into net loss |
-| [**HR Attrition Analysis**](https://github.com/Shrouk3112/HR_Analytics) | SQL • Power BI | Employees working overtime leave at 3× the rate of others |
-| [**Loan & Financial Risk**](https://github.com/Shrouk3112/Loan-financial-risk) | SQL • Power BI | Approval rate jumps to 44% for PhD holders vs only 14% for high-school graduates |
-
+| --- | --- | --- |
+| [Olist Brazilian E-commerce](https://github.com/Shrouk3112/olist-ecommerce-data-analysis) | SQL Server • Power BI • DAX | Delivery performance is the strongest driver of customer satisfaction (5-star orders arrive ~13 days early vs 4 days for 1-star) |
+| [Adventure Works Sales Analysis](https://github.com/Shrouk3112/adventure-works-sales-analysis) | SQL • Power BI • Python • Excel | Bikes drive the majority of profit ($10.46M) with a 42% margin, while Accessories lead in returns |
+| [SuperStore Sales Analysis](https://github.com/Shrouk3112/SuperStoreOrders) | SQL • Power BI • Excel | Discounts above 20% consistently turn profit into net loss |
+| [HR Attrition Analysis](https://github.com/Shrouk3112/HR_Analytics) | SQL • Power BI | Employees working overtime leave at 3× the rate of others |
 ---
 
 ### Currently
