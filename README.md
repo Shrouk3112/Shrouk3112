@@ -43,8 +43,10 @@
 
 <p><img src="https://img.shields.io/badge/GITHUB_STATS-A855F7?style=for-the-badge"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Shrouk3112&show_icons=true&theme=midnight-purple&hide_border=true" width="495"/></p>
-<p><img src="https://streak-stats.demolab.com/?user=Shrouk3112&theme=midnight-purple&hide_border=true" width="495"/></p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Shrouk3112&show_icons=true&theme=midnight-purple&hide_border=true" width="400"/>
+<img src="https://streak-stats.demolab.com/?user=Shrouk3112&theme=midnight-purple&hide_border=true" width="400"/>
+</p>
 
 **🌱 Currently Learning**
 - Data Analysis Diploma, Cairo University (2026 - present)
