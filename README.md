@@ -43,27 +43,17 @@
 
 <p><img src="https://img.shields.io/badge/GITHUB_STATS-A855F7?style=for-the-badge"/></p>
 
-<table width="100%">
-<tr>
-<td width="38%"><img src="https://github-readme-stats.vercel.app/api?username=Shrouk3112&show_icons=true&theme=midnight-purple&hide_border=true" width="100%"/></td>
-<td width="38%"><img src="https://streak-stats.demolab.com/?user=Shrouk3112&theme=midnight-purple&hide_border=true" width="100%"/></td>
-<td width="24%" valign="top">
-<b>🌱 Currently Learning</b><br><br>
-• Data Analysis Diploma,<br>
-&nbsp;&nbsp;Cairo University<br>
-&nbsp;&nbsp;(2026 - present)
-</td>
-</tr>
-</table>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Shrouk3112&show_icons=true&theme=midnight-purple&hide_border=true" width="495"/></p>
+<p><img src="https://streak-stats.demolab.com/?user=Shrouk3112&theme=midnight-purple&hide_border=true" width="495"/></p>
+
+**🌱 Currently Learning**
+- Data Analysis Diploma, Cairo University (2026 - present)
 
 <p><img src="https://img.shields.io/badge/CONNECT_WITH_ME-A855F7?style=for-the-badge"/></p>
 
-<table width="100%">
-<tr>
-<td>
+<p>
 <a href="https://www.linkedin.com/in/shoroq-mohamed"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:Shurouqm2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</td>
-<td align="right"><i>"The goal is not just to analyze data,<br>but to turn it into clear business decisions."</i></td>
-</tr>
-</table>
+</p>
+
+*"The goal is not just to analyze data, but to turn it into clear business decisions."*
