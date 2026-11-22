@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shrouk3112/Shrouk3112/main/header.svg" width="700"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,100:A855F7&height=180&section=header&text=Hi%20there!%20I%27m%20Shoroq%20Mohamed&fontSize=34&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Clear%20Business%20Decisions&descSize=17&fontAlignY=38&descAlignY=50" width="700"/>
 </p>
 
-<p><img src="https://raw.githubusercontent.com/Shrouk3112/Shrouk3112/main/h-about.svg" height="30"/></p>
+<p><img src="https://img.shields.io/badge/ABOUT_ME-A855F7?style=for-the-badge"/></p>
 
 ```json
 {
@@ -16,7 +16,7 @@
 }
 ```
 
-<p><img src="https://raw.githubusercontent.com/Shrouk3112/Shrouk3112/main/h-tech.svg" height="30"/></p>
+<p><img src="https://img.shields.io/badge/TECH_STACK-A855F7?style=for-the-badge"/></p>
 
 <p>
 <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-<p><img src="https://raw.githubusercontent.com/Shrouk3112/Shrouk3112/main/h-projects.svg" height="30"/></p>
+<p><img src="https://img.shields.io/badge/FEATURED_PROJECTS-A855F7?style=for-the-badge"/></p>
 
 | Project | Tools | Description | Highlights |
 | :--- | :--- | :--- | :--- |
@@ -41,7 +41,7 @@
 
 <p align="center"><a href="https://github.com/Shrouk3112?tab=repositories">→ View more repositories</a></p>
 
-<p><img src="https://raw.githubusercontent.com/Shrouk3112/Shrouk3112/main/h-stats.svg" height="30"/></p>
+<p><img src="https://img.shields.io/badge/GITHUB_STATS-A855F7?style=for-the-badge"/></p>
 
 <table width="100%">
 <tr>
@@ -56,7 +56,7 @@
 </tr>
 </table>
 
-<p><img src="https://raw.githubusercontent.com/Shrouk3112/Shrouk3112/main/h-connect.svg" height="30"/></p>
+<p><img src="https://img.shields.io/badge/CONNECT_WITH_ME-A855F7?style=for-the-badge"/></p>
 
 <table width="100%">
 <tr>
